@@ -1,4 +1,4 @@
-export const movie_lis=[
+export const Movielist=[
     {
         price : '800$',
       name : 'Black x Widow',
